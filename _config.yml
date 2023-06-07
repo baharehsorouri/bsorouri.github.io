@@ -85,9 +85,9 @@ author:
   bio              : "I'm a biology graduate student learning how to code on the side. I'm an R enthusiast and hope to make all of my data analysis reproducible."
   location         : "UC Irvine"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5jxY4r8AAAAJ&hl=en"
-  email            : "MilesV at UCI dot edu"
+  MilesV at UCI dot edu            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "miles-valencia-9bb561212/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
