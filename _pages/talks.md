@@ -5,10 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 ## Outreach Events
-**CSU San Bernardino - Panel Discussion on _Students Accepted into Graduate Programs_**
-We discussed the difficulties of applying to graduate programs, and I shared the lessons learned throughout my master’s program and going into my PhD program.
+**CSU San Bernardino - Panel Discussion on _Students Accepted into Graduate Programs_**  
+We discussed the difficulties of applying to graduate programs, and I shared the lessons learned throughout my master’s program and going into my PhD program.  
 **CSU Long Beach – _National Biomechanics Day_**  
-Our lab coordinated with the movement science and robotics labs to introduce students to biomechanics. We facilitated a biomechanics activity on lever systems using vertebrate skeletons to introduce students to comparative biomechanics.
+Our lab coordinated with the movement science and robotics labs to introduce students to biomechanics. We facilitated a biomechanics activity on lever systems using vertebrate skeletons to introduce students to comparative biomechanics.  
 **CSU Long Beach – _Jordan High School visit_**  
 We presented ongoing research projects in Dr. Sandy Kawano’s lab to high school seniors, and informed them about applications of biomechanics research to the medical field.
 ## Mentoring Experiences  
