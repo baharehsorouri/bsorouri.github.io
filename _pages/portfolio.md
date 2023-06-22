@@ -4,7 +4,7 @@ title: "Research"
 permalink: /portfolio/
 author_profile: true
 ---
-# Biomechanics Research  
+## Biomechanics Research  
 I am broadly interested in studying the relationship between form and function in musculoskeletal systems, and how these relationships change in different environments. My undergraduate research explored the differences in salamander forelimb kinematics by comparing how semi-aquatic and predominantly terrestrial salamanders overcome a similar challenge: terrestrial locomotion. During my master’s research, I investigated the effects of maturation and exercise on mice tendon mechanics, and I plan to further explore tendon remodeling with my PhD research. Currently, I am comparing the materials properties of rat tendon fascicles from the core and peripheral regions and am proposing to include the entire muscle-tendon unit for future projects.  
 
 ## Education Research  
