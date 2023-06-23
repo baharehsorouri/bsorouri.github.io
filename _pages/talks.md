@@ -33,13 +33,3 @@ Haleigh assisted with my master’s tendon research at CSU San Bernardino. I gui
 Brooke assisted with my master’s tendon research at CSU San Bernardino. She assisted with animal care, and I taught her how to track and organize data collected regarding mouse weight and food consumption. Booke graduated from CSUSB in 2022 with her BS in Biology.  
 **Moarley Palpal-latoc**  
 I connected with Moarley through the mentoring program offered by the Association of Filipino Scientists in America. We shared our experiences with navigating academia as Filipino scientists, and I provided insight and advice about Moarley’s undergraduate plans. He is currently attending UC Berkeley for his BS in Psychology.  
-
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
