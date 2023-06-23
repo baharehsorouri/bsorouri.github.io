@@ -11,10 +11,5 @@ I am broadly interested in studying the relationship between form and function i
 I am passionate about continually improving my teaching, and I am currently exploring higher education research as an avenue for improvement. I often rely on studies that systematically analyze pedagogical approaches to incorporate evidence-based practices (i.e., active learning, flipped-class structures, etc); however, some approaches have not been specifically addressed in Anatomy and Physiology classes, which I plan to teach in the future. I am currently collaborating with faculty at CSU San Bernardino to investigate the impacts of varying prerequisites on student success in Anatomy and Physiology courses.  
 
 
-{% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
 
