@@ -14,6 +14,7 @@ The following are lists of teaching-related experiences:
 **UC Irvine**  
 BIO SCI 100 – Scientific Writing (1 quarter)  
 BIO SCI D170 Lab – Applied Human Anatomy (2 quarter)  
+BIO SCI E112L – Physiology Lab (1 quarter)  
 **CSU San Bernardino**  
 BIOL 100 Lab – Topics in Biology (1 quarter)  
 BIOL 201 Lab – Biology of Organisms (1 quarter)  
@@ -24,6 +25,9 @@ UCI D170: Applied Human Anatomy – “Heart Structures and Blood Flow” (May 2
 UCI D170: Applied Human Anatomy – “Muscles and Joints” (May 2023)  
 CSUSB Biology 4240: Animal Physiology – “Tendons” (Nov. 2021)  
 ## Formal Training  
+Integrative Movement Sciences Institute – Inclusive Mentoring Certificate (Sep. 2024)  
+UCI Graduate Division – Certificate in Mentoring Excellence	(Nov. 2023)  
+UCI DTEI – Graduate Scholars Program (Aug. 2023)  
 UCI Division of Teaching Excellence and Innovation (DTEI) – Graduate Scholars Program (Summer 2023)  
 UCI DTEI – Certificate of Teaching Excellence (June 2023)  
 UCI DTEI – University Studies 390X: Developing Pedagogy (Fall 2022)  
